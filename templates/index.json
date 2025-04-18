@@ -710,6 +710,27 @@
         "input_text_color": ""
       }
     },
+    "recently_viewed_products_VDgMDp": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "full_width": true,
+        "products_count": 6,
+        "stack_products": true,
+        "show_progress_bar": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Recently viewed products",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "feature-chart": {
       "type": "feature-chart",
       "blocks": {
@@ -877,31 +898,11 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
-    },
-    "recently_viewed_products_VDgMDp": {
-      "type": "recently-viewed-products",
-      "settings": {
-        "full_width": true,
-        "products_count": 6,
-        "stack_products": true,
-        "show_progress_bar": true,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Recently viewed products",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
     }
   },
   "order": [
     "slideshow",
+    "recently_viewed_products_VDgMDp",
     "image-link-blocks",
     "scrolling-text",
     "collection-list",
@@ -915,7 +916,6 @@
     "multiple-images-with-text",
     "featured-product",
     "feature-chart",
-    "faq",
-    "recently_viewed_products_VDgMDp"
+    "faq"
   ]
 }
