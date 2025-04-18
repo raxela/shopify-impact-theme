@@ -43,7 +43,7 @@
     "show_vendor": false,
     "show_quick_buy": false,
     "product_color_display": "swatch",
-    "product_image_aspect_ratio": "short_crop",
+    "product_image_aspect_ratio": "square_crop",
     "product_info_alignment": "start",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
