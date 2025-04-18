@@ -202,14 +202,15 @@
           "type": "collection",
           "settings": {
             "collection": "frontpage",
+            "image": "shopify://shop_images/cc7KSEPdDT8nxfUTjsD6wZflWp5daVbSubcbUPTg.jpg",
             "subheading": "",
             "title": "",
             "url": "",
             "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
+            "text_position": "place-self-end-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 15
           }
         },
         "collection-2": {
