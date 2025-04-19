@@ -136,7 +136,7 @@
       "pick_up_available": "Preluare disponibilă",
       "pick_up_currently_unavailable": "În prezent nu este disponibilă preluarea",
       "pick_up_available_at": "Preluare disponibilă la {{ location_name }}",
-      "pick_up_unavailable_at": "În prezent preluarea nu este disponibilă la {{ location_name }}"
+      "pick_up_unavailable_at": "În prezent preluarea nu este disponibilă"
     }
   },
   "collection": {
