@@ -28,7 +28,7 @@
       "color": "Culoare",
       "white": "Alb",
       "blue": "Albastru",
-      "size": "Mărime"
+      "size": "Marime"
     },
     "social": {
       "follow_on": "Urmărește pe {{ social_media }}",
