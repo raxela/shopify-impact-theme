@@ -85,6 +85,16 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "inventory_n6kWxm": {
+          "type": "inventory",
+          "settings": {
+            "low_inventory_threshold": 2
+          }
+        },
+        "pickup_availability_neMzjb": {
+          "type": "pickup_availability",
+          "settings": {}
         }
       },
       "block_order": [
@@ -99,7 +109,9 @@
         "product_variations_6jU6RA",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "inventory_n6kWxm",
+        "pickup_availability_neMzjb"
       ],
       "settings": {
         "full_width": true,
