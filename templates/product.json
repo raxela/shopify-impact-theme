@@ -56,7 +56,7 @@
           "type": "product_variations",
           "settings": {
             "option_name": "Culoare",
-            "option_value_metafield": "{{ product.title }}",
+            "option_value_metafield": "",
             "products": "{{ product.metafields.custom.alte_culori.value }}",
             "color_mode": "variant"
           }
