@@ -40,7 +40,7 @@
     "text_font": "din_next_n4",
     "show_page_transition": true,
     "heading_apparition": "split_fade",
-    "color_swatch_config": "Albastru:#0019EC\nBej:#F5F5DC\nVerde:#00FF00",
+    "color_swatch_config": "Verde:#4CAF50\nBej:#D5BAA3\nCrem:#F5F5DC\nAlbastru:#3F51B5\nNegru:#000000\nAlb:#FFFFFF",
     "show_vendor": false,
     "show_quick_buy": false,
     "product_color_display": "hide",
