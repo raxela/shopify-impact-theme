@@ -40,6 +40,7 @@
     "text_font": "din_next_n4",
     "show_page_transition": true,
     "heading_apparition": "split_fade",
+    "color_swatch_config": "Albastru:#0019EC",
     "show_vendor": false,
     "show_quick_buy": false,
     "product_color_display": "swatch",
