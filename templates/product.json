@@ -92,6 +92,13 @@
             "payment_button_text_color": ""
           }
         },
+        "collapsible_text_RVqKHL": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Detalii produs",
+            "content": "<ul><li>Brand: {{ product.metafields.custom.brand.value.nume.value }}</li><li>Culoare: {{ product.metafields.custom.culoare.value }}</li></ul>"
+          }
+        },
         "pickup_availability_neMzjb": {
           "type": "pickup_availability",
           "settings": {}
@@ -111,6 +118,7 @@
         "inventory_n6kWxm",
         "quantity_selector",
         "buy_buttons",
+        "collapsible_text_RVqKHL",
         "pickup_availability_neMzjb"
       ],
       "settings": {
