@@ -95,7 +95,7 @@
       "taxes_included": "Taxă inclusă.",
       "taxes_excluded": "Fără taxă.",
       "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link\">Costul de livrare este calculat</a> la finalizarea comenzii",
-      "size_chart": "Ghid marime",
+      "size_chart": "Tabel de mărimi",
       "available_colors_count": {
         "one": "{{ count }} culoare disponibilă",
         "other": "{{ count }} culori disponibile"
