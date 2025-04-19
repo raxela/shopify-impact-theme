@@ -89,6 +89,13 @@
             "content": "{{ product.description }}<ul><li><strong>Brand:</strong> {{ product.metafields.custom.brand.value.nume.value }}</li><li><strong>Culoare:</strong> {{ product.metafields.custom.culoare.value }}</li></ul>"
           }
         },
+        "collapsible_text_ma7VJY": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Livrare & Retur",
+            "content": "<p>Cum se realizeaza livrarea. Care sunt conditiile de retur.</p>"
+          }
+        },
         "pickup_availability_neMzjb": {
           "type": "pickup_availability",
           "settings": {}
@@ -107,6 +114,7 @@
         "quantity_selector",
         "buy_buttons",
         "collapsible_text_RVqKHL",
+        "collapsible_text_ma7VJY",
         "pickup_availability_neMzjb"
       ],
       "settings": {
