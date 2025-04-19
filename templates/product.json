@@ -42,16 +42,6 @@
           "type": "payment_terms",
           "settings": {}
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
         "product_variations_6jU6RA": {
           "type": "product_variations",
           "settings": {
@@ -96,7 +86,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Detalii produs",
-            "content": "<ul><li>Brand: {{ product.metafields.custom.brand.value.nume.value }}</li><li>Culoare: {{ product.metafields.custom.culoare.value }}</li></ul>"
+            "content": "{{ product.description }}<ul><li><strong>Brand:</strong> {{ product.metafields.custom.brand.value.nume.value }}</li><li><strong>Culoare:</strong> {{ product.metafields.custom.culoare.value }}</li></ul>"
           }
         },
         "pickup_availability_neMzjb": {
@@ -111,8 +101,6 @@
         "price",
         "rating",
         "payment_terms",
-        "separator",
-        "description",
         "product_variations_6jU6RA",
         "variant_picker",
         "inventory_n6kWxm",
