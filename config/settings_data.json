@@ -43,7 +43,7 @@
     "color_swatch_config": "Albastru:#0019EC\nBej:#F5F5DC\nVerde:#00FF00",
     "show_vendor": false,
     "show_quick_buy": false,
-    "product_color_display": "swatch",
+    "product_color_display": "hide",
     "product_image_aspect_ratio": "short_crop",
     "product_info_alignment": "start",
     "checkout_accent_color": "#f0c417",
