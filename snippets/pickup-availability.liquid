@@ -20,7 +20,8 @@ Supported variables
     {%- capture drawer_id -%}store-availability-drawer-{{ product_variant.product.id }}{%- endcapture -%}
 
     <div class="pickup-availability__closest-location">
-      {%- assign closest_location = pick_up_availabilities.first -%}
+      {%- assign available_locations = pick_up_availabilities | where: 'available', true -%}
+      {%- assign closest_location = available_locations.first -%}
 
       {%- if closest_location.available -%}
         {%- render 'icon' with 'success', class: 'text-success offset-icon' -%}
