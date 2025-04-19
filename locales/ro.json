@@ -132,7 +132,7 @@
     },
     "store_availability": {
       "view_store_info": "Vezi informații despre magazin",
-      "check_other_stores": "Verifică disponibilitatea la alte magazine",
+      "check_other_stores": "Verifică disponibilitatea în toate magazinele",
       "pick_up_available": "Preluare disponibilă",
       "pick_up_currently_unavailable": "În prezent nu este disponibilă preluarea",
       "pick_up_available_at": "Preluare disponibilă la {{ location_name }}",
