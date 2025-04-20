@@ -8,6 +8,69 @@
  * ------------------------------------------------------------
  */
 {
-  "sections": {},
-  "order": []
+  "sections": {
+    "media_with_text_AGjfkt": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_XxpmMf": {
+          "type": "image",
+          "settings": {
+            "image": "{{ metaobject.logo.value }}",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "{{ metaobject.nume.value }}",
+            "content": "<p>{{ metaobject.descriere | metafield_tag }}</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_XxpmMf"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "featured_collection_L8B3ek": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products": "{{ section.settings.collection.products }}",
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 20,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Produsele de la {{ metaobject.nume.value }}",
+        "content": "",
+        "link_url": "",
+        "link_text": "Vezi tot",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "media_with_text_AGjfkt",
+    "featured_collection_L8B3ek"
+  ]
 }
