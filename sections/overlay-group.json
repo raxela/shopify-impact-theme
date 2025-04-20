@@ -33,6 +33,9 @@
     },
     "cart-drawer": {
       "type": "cart-drawer",
+      "custom_css": [
+        ".buy-buttons--compact {grid-template-columns: 100%;}"
+      ],
       "settings": {
         "show_cart_note": true,
         "show_shipping_text": true,

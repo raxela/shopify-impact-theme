@@ -15,6 +15,8 @@
     "block_border_radius": 24,
     "block_shadow_opacity": 10,
     "block_shadow_vertical_offset": 18,
+    "icon_stroke_width": 2,
+    "icon_style": "duo",
     "background": "#ffffff",
     "text_color": "#212121",
     "success_color": "#4caf50",
@@ -46,6 +48,7 @@
     "product_color_display": "hide",
     "product_image_aspect_ratio": "short_crop",
     "product_info_alignment": "start",
+    "cart_show_free_shipping_threshold": false,
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": []
