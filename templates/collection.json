@@ -32,33 +32,22 @@
     "image_link_blocks_eVPfDF": {
       "type": "image-link-blocks",
       "blocks": {
-        "item_X7BaR3": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_c84EK9": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
         "item_ABRLmG": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/sandale_cu_toc.webp",
+            "stretch_image": true,
+            "link_text": "Sandale cu toc",
+            "link_url": "shopify://collections/sandale-cu-toc",
+            "background": "",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_gaBFWG": {
+          "type": "item",
+          "settings": {
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -68,24 +57,24 @@
             "overlay_opacity": 0
           }
         },
-        "item_JtdEWY": {
+        "item_8fBrmR": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/sandale.webp",
             "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
+            "link_text": "Sandale fara toc",
+            "link_url": "shopify://collections/sandale-fara-toc",
             "background": "",
-            "text_color": "#ffffff",
+            "text_color": "#000000",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "item_X7BaR3",
-        "item_c84EK9",
         "item_ABRLmG",
-        "item_JtdEWY"
+        "item_gaBFWG",
+        "item_8fBrmR"
       ],
       "settings": {
         "full_width": false,
