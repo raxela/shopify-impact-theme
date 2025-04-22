@@ -208,9 +208,10 @@
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "sandale",
+            "image": "shopify://shop_images/Photoroom_20250422_193446.jpg",
             "subheading": "",
-            "title": "",
+            "title": "Balerini",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
