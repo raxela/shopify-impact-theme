@@ -15,11 +15,11 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_3524.webp",
-            "mobile_image": "shopify://shop_images/IMG_3524.webp",
+            "image": "shopify://shop_images/Photoroom_20250422_181357.jpg",
+            "mobile_image": "shopify://shop_images/Photoroom_20250422_181357.jpg",
             "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "subheading": "",
             "title": "",
             "heading_tag": "h0",
