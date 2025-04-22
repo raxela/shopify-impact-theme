@@ -180,14 +180,14 @@
           "settings": {
             "collection": "pantofi",
             "image": "shopify://shop_images/Photoroom_20250422_185157.jpg",
-            "subheading": "da",
-            "title": "da",
+            "subheading": "",
+            "title": "Pantofi",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-end-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 15
+            "overlay_opacity": 30
           }
         },
         "collection-2": {
