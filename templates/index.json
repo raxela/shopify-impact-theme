@@ -12,28 +12,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Photoroom_20250422_181357.jpg",
-            "mobile_image": "shopify://shop_images/Photoroom_20250422_181357.jpg",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-end-center text-center",
-            "desktop_text_position": "sm:place-self-end-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "#ffffff",
-            "background_gradient": ""
-          }
-        },
         "slide-2": {
           "type": "image",
           "settings": {
@@ -58,7 +36,6 @@
         }
       },
       "block_order": [
-        "slide-1",
         "slide-2"
       ],
       "settings": {
@@ -201,10 +178,10 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "frontpage",
-            "image": "shopify://shop_images/cc7KSEPdDT8nxfUTjsD6wZflWp5daVbSubcbUPTg.jpg",
-            "subheading": "",
-            "title": "",
+            "collection": "pantofi",
+            "image": "shopify://shop_images/Photoroom_20250422_185157.jpg",
+            "subheading": "da",
+            "title": "da",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-end-center text-center",
