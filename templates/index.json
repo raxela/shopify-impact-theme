@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/j1O6ZLTVCMUhmMXmjActLDTq0IqvuwT9HpqSTZNs.webp",
-            "mobile_image": "shopify://shop_images/j1O6ZLTVCMUhmMXmjActLDTq0IqvuwT9HpqSTZNs.webp",
+            "image": "shopify://shop_images/IMG_3524.webp",
+            "mobile_image": "shopify://shop_images/IMG_3524.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -216,7 +216,8 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "sandale",
+            "image": "shopify://shop_images/IMG_3524.webp",
             "subheading": "",
             "title": "",
             "url": "",
