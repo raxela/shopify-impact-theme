@@ -194,12 +194,12 @@
           "type": "collection",
           "settings": {
             "collection": "sandale",
-            "image": "shopify://shop_images/IMG_3524.webp",
+            "image": "shopify://shop_images/Photoroom_20250422_185743.jpg",
             "subheading": "",
-            "title": "",
+            "title": "Sandale",
             "url": "",
             "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
+            "text_position": "place-self-end-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30
