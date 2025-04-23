@@ -17,6 +17,7 @@
     "block_shadow_vertical_offset": 18,
     "icon_stroke_width": 2,
     "icon_style": "duo",
+    "button_style": "fill",
     "background": "#ffffff",
     "text_color": "#212121",
     "success_color": "#4caf50",
