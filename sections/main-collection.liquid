@@ -63,6 +63,10 @@
       --product-list-items-per-row: {{ section.settings.products_per_row_desktop }};
     }
 
+    .image-link-blocks {
+      --image-link-blocks-items-per-row: 6;
+    }
+
     {%- for block in section.blocks -%}
       #block-{{ section.id }}-{{ block.id }} {
         --product-list-promo-grid-column: span {{ block.settings.column_span }};
