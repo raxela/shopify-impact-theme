@@ -31,12 +31,14 @@
     },
     "custom_liquid_HiTFYb": {
       "type": "custom-liquid",
-      "custom_css": [],
+      "custom_css": [
+        ".subcollections-horizontal {--image-link-blocks-items-per-row: 5;}"
+      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "{% assign subcollections = collection.metafields.custom.subcolectii.value %}\n\n{% if subcollections != blank %}\n  <div class=\"section-stack\">\n    <div class=\"floating-controls-container\">\n      <image-link-blocks class=\"image-link-blocks scroll-area bleed md:unbleed align-center\">\n        {% for subcollection in subcollections %}\n\t  <div class=\"image-link-blocks__item group rounded bg-custom text-custom\">\n\t    <a class=\"image-link-blocks__inner\" href=\"{{ subcollection.url }}\">\n                <img \n                  src=\"{{ subcollection.image | image_url: width: 400 }}\" \n                  alt=\"{{ subcollection.title }}\" \n                  loading=\"lazy\" \n                  class=\"image-link-blocks__image zoom-image\"\n                >\n          \n\t    </a>\n\t    <p class=\"image-link-blocks__title image-link-blocks__title--animate text-center bold\">\n              {{ subcollection.title }}\n            </p>\n          </div>\n        {% endfor %}\n      </image-link-blocks>\n    </div>\n  </div>\n{% endif %}",
+        "liquid": "{% assign subcollections = collection.metafields.custom.subcolectii.value %}\n\n{% if subcollections != blank %}\n  <div class=\"section-stack\">\n    <div class=\"floating-controls-container\">\n      <image-link-blocks id=\"subcollections-horizontal\" class=\"image-link-blocks scroll-area bleed md:unbleed align-center\">\n        {% for subcollection in subcollections %}\n\t  <div class=\"image-link-blocks__item group rounded bg-custom text-custom\">\n\t    <a class=\"image-link-blocks__inner\" href=\"{{ subcollection.url }}\">\n                <img \n                  src=\"{{ subcollection.image | image_url: width: 400 }}\" \n                  alt=\"{{ subcollection.title }}\" \n                  loading=\"lazy\" \n                  class=\"image-link-blocks__image zoom-image\"\n                >\n          \n\t    </a>\n\t    <p class=\"image-link-blocks__title image-link-blocks__title--animate text-center bold\">\n              {{ subcollection.title }}\n            </p>\n          </div>\n        {% endfor %}\n      </image-link-blocks>\n    </div>\n  </div>\n{% endif %}",
         "background": "",
         "background_gradient": "",
         "text_color": ""
