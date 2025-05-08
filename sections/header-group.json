@@ -99,7 +99,7 @@
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "meniu",
-        "sidebar_menu": "",
+        "sidebar_menu": "meniu",
         "secondary_menu": "",
         "menu_open_trigger": "click",
         "opening_from": "left",
