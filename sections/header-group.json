@@ -95,7 +95,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
-        "logo": "{{shop.brand.logo}}",
+        "logo": "shopify://shop_images/logoPNG.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "meniu",
